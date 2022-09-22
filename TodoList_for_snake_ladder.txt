@@ -1,0 +1,17 @@
+                                      Todo list for Snake and ladder
+
+1.Given single dimensional array that array size is 100.
+2.Display the board 10 x 10.
+3.Give the option how many players playing from the user and each has given the name,example(player1,player2).
+4.Give each player has to colours.
+5.
+5.Maintain the each player has position count.
+6.Give the Random method range (0,7) for dies.
+7.Each player has using dies method.
+8.When player using dies that player position count increase the dies value.
+9.For your choice given ladders and snake.
+10.Current player count and  ladder position count are equal increase the player position count.
+11.Current Player count and snake position count are equal decrase the player position count. 
+12.Check winning state for the current player position count are equal 100 that player win the game.
+13.Set each the player winning using list to store.
+14.check how many players win the game that last player is loser.
